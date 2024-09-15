@@ -1,10 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?>
-<device name="Android">
-    <item name="ambient.on">0.1</item>
-    <item name="screen.on">45.97</item>
-    <item name="screen.full">292.89</item>
-    <item name="bluetooth.active">17.58</item>
-    <item name="bluetooth.on">0.31</item>
+ooth.on">0.31</item>
     <item name="wifi.on">0.21</item>
     <item name="wifi.active">226.52</item>
     <item name="wifi.scan">24.8</item>
